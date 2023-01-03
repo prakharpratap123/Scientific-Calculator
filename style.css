@@ -64,7 +64,8 @@ body {
 }
 
 #ce {
-  background: #ff3399;
+  /* background: #ff3399; */
+  background: red;
   color: #fff;
 }
 
